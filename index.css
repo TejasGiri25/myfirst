@@ -1,0 +1,116 @@
+
+
+
+.head{
+    color: black;
+    margin-left: 50px;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-shadow: rgb(30, 30, 30);
+}
+.head1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(73, 96, 243);
+    margin-left: 50px;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-size: 90%;
+}
+.a{
+    margin-top: 3%;
+}
+.ttt{
+    box-shadow: rgb(30, 30, 30);
+    margin-bottom: 5%;
+}
+.btn {
+    box-shadow: rgb(30, 30, 30);
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100%;
+}
+.container1{
+    background-color: rgb(255, 252, 237);
+    width: 100%;
+    height: 100%;
+}
+.form-label{
+    margin-left: 1px;
+    color:black;
+    text-decoration: solid;
+}
+
+.form-control{
+    width: 100%;
+    height: auto;
+}
+
+.form-control:hover {
+  box-shadow: 0 8px 16px 0 rgb(157, 157, 157);
+}
+
+.ttt{
+    width: 100%;
+}
+.btn:hover{
+    box-shadow: 0 8px 16px 0 rgb(0, 0, 0);
+}
+.card{
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: rgb(207, 38, 38);
+    border-radius: 5px;
+    background-color: aqua !important;
+   color: blue;
+   background-color: aqua !important;
+   /* background: #f6f6f6; */
+   border-radius: 20px;
+   overflow: hidden;
+}
+
+.container {
+    width: 100%;
+    padding: 2px 16px;
+    /* background-color: rgb(206, 205, 205); */
+  }
+  
+.container1 {
+    width: 100%;
+    padding: 2px 16px;
+    background-color: rgb(255, 234, 234);
+  }
+.a{
+    border-radius: 20px;
+    box-shadow: rgb(0, 0, 0);
+}
+  
+
+  .card1{
+    background-color: aqua !important;
+    /* background: #f6f6f6; */
+    border-radius: 20px;
+    overflow: hidden;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+    /* margin-bottom: 10%;
+
+    width: 1200px;
+    box-shadow: #ff0d0d;
+    background-color: rgb(255, 255, 255);
+
+    margin-left: 3%; */
+
+  }
+
+  .card1:hover {
+    box-shadow: 0 8px 16px 0 rgb(255, 0, 0);
+  }
